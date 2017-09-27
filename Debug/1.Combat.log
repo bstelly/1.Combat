@@ -1,4 +1,4 @@
 ﻿  Source.cpp
 c:\users\s178022\documents\visual studio 2015\projects\exercises\1.combat\source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  1.Combat.vcxproj -> c:\users\s178022\documents\visual studio 2015\Projects\Exercises\Debug\1.Combat.exe
-  1.Combat.vcxproj -> c:\users\s178022\documents\visual studio 2015\Projects\Exercises\Debug\1.Combat.pdb (Partial PDB)
+  1.Combat.vcxproj -> C:\Users\s178022\Documents\Visual Studio 2015\Projects\Exercises\Debug\1.Combat.exe
+  1.Combat.vcxproj -> C:\Users\s178022\Documents\Visual Studio 2015\Projects\Exercises\Debug\1.Combat.pdb (Partial PDB)
